@@ -1,7 +1,9 @@
 var numero = Math.random();
-
+var str;
 if (numero < 0.5){
-	console.log(numero + ' menor');
+	str =' menor';
 }else{
-	console.log(numero + ' mayor');
+	str =' mayor';
 }
+
+console.log(numero + ' ' + str);
