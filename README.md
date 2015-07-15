@@ -1,0 +1,1 @@
+Diferenciador de numeros aleatorios < o > de .5
